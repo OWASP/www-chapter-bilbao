@@ -8,6 +8,9 @@ level: 0
 region: Europe
 currency: euro
 auto-migrated: 1
+meetup-group: OWASP-Bilbao-Chapter
+country: Spain
+postal-code: 
 
 ---
 <!-- rebuild -->
