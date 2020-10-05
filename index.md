@@ -13,7 +13,7 @@ country: Spain
 postal-code: 
 
 ---
-<!-- rebuild -->
+
 
 OWASP Bilbao
 -------------
